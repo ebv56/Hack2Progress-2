@@ -170,6 +170,16 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Model\Clases\Habitacion.cs" />
+    <Compile Include="Model\Clases\Paciente.cs" />
+    <Compile Include="Model\Clases\Persona.cs" />
+    <Compile Include="Model\Clases\Personal.cs" />
+    <Compile Include="Model\Clases\Seccion.cs" />
+    <Compile Include="Model\DTO%27s\HabitacionDTO.cs" />
+    <Compile Include="Model\DTO%27s\PacienteDTO.cs" />
+    <Compile Include="Model\DTO%27s\PersonaDTO.cs" />
+    <Compile Include="Model\DTO%27s\PersonalDTO.cs" />
+    <Compile Include="Model\DTO%27s\SeccionDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

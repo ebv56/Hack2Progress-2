@@ -7,9 +7,9 @@ namespace Hack2Pro.Data_DAL
 {
     public class SeccionDAL
     {
-        public SeccionDAL Get()
+        public IEnumerable<SeccionDTO> GetSecciones()
         {
-            
+            List<SeccionDTO>
         }
     }
 }
